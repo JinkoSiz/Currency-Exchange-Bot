@@ -1,0 +1,3 @@
+aiohttp
+redis
+aiogram==2.25.2
